@@ -4,7 +4,9 @@
 
 [DED Server]()
   
+  * [DEDServer Overview](ded/dedserver.md)
   * [Installation](ded/install.md)
+  * [Admin Client](ded/admin-client.md)
   * [Screenshots](ded/screenshots.md)
 
 [Links]()
