@@ -20,8 +20,10 @@ Additions to this website should be made in the `gh-pages` branch, not `master`!
 ### Content Pages
 
  * `index.md` - The index page for cocdevteam.info, usually you should not modify this.
- * `install.md` - Installation and configuration instructions for DEDServer
- * `screenshots.md` - Screenshots of DEDServer and the client.
+ * `ded/install.md` - Installation and configuration instructions for DEDServer
+ * `ded/screenshots.md` - Screenshots of DEDServer and the client.
+ * `ded/admin-client.md` - Overview of the admin client.
+ * `ded/dedserver.md` - Overview of the DEDServer software.
 
 ### Technical Pages
 
