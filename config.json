@@ -1,0 +1,6 @@
+{
+    "useSideMenu": true,
+    "lineBreaks": "gfm",
+    "additionalFooterText": "See our <a href="https://cocdevteam.info/#!index.md#License">license</a>.",
+    "anchorCharacter": "#"
+}
