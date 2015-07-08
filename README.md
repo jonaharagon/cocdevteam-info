@@ -4,9 +4,17 @@ This is a community collaborative guide to the DED Server program, developed by 
 
 To add pages to this Wiki fork this repository and add `.md` files. These files will be formatted as HTML pages and posted on [cocdevteam.info](http://cocdevteam.info/) when your pull request is merged. Visit the documentation for GH Markdown [here](https://help.github.com/articles/github-flavored-markdown/) to learn how to format your pages.
 
+**Note** regarding additional content: If you are adding pages related to **DEDServer**, the pages should be located in the `/ded` directory, not in the root.
+
 Additions to this website should be made in the `gh-pages` branch, not `master`!
 
 ## Files in this repo:
+
+### Directories
+
+ * `/` - Root, holds the main files. Usually shouldn't be edited too greatly.
+ * `/downloads` - holds the downloads and mirrors for all software
+ * `/ded` - holds wiki files related to DEDServer.
 
 ### Content Pages
 
