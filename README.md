@@ -15,10 +15,13 @@ Additions to this website should be made in the `gh-pages` branch, not `master`!
  * `/` - Root, holds the main files. Usually shouldn't be edited too greatly.
  * `/downloads` - holds the downloads and mirrors for all software
  * `/ded` - holds wiki files related to DEDServer.
+ * `/img` - holds images for web facing site.
 
 ### Content Pages
 
  * `index.md` - The index page for cocdevteam.info, usually you should not modify this.
+ * `install.md` - Installation and configuration instructions for DEDServer
+ * `screenshots.md` - Screenshots of DEDServer and the client.
 
 ### Technical Pages
 
@@ -28,7 +31,7 @@ Additions to this website should be made in the `gh-pages` branch, not `master`!
 ### GitHub Files
 
  * `README` - The file you're reading right now. Feel free to edit this to add pages to the above or to clairify information.
- * `LICENSE` - [The license for this website](http://cocdevteam.info/LICENSE). This does not apply to downloads served unless otherwise noted.
+ * `LICENSE` - [The license for this website](http://cocdevteam.info/LICENSE). This does not apply to downloads served unless otherwise noted. This should never be edited.
 
 ## About [cocdevteam.info](http://cocdevteam.info/)
 
