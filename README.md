@@ -26,7 +26,8 @@ Additions to this website should be made in the `gh-pages` branch, not `master`!
 ### Technical Pages
 
  * `index.html` - The parser for the `.md` files, developed by Timo Dörr and contrbutors at the [MDWiki](https://github.com/Dynalon/mdwiki/) GitHub Page.
- * `navigation.md` - The navigation bar at the top of cocdevteam.info. Edit this to add pages to navigation.
+ * `navigation.md` - The navigation bar at the top of cocdevteam.info. Edit this to add pages to navigation. Content in this file is applied to every page.
+ * `config.json` - Basic configuration for the website. This file should never be edited.
 
 ### GitHub Files
 
