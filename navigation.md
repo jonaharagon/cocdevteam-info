@@ -23,7 +23,7 @@
   * [Free Year Amazon AWS](http://aws.amazon.com)
   - - - -
   * # Your link here! 
-  * [Submit a pull request](https://github.com/JonahAragon/ded-info/).
+  * [Submit a pull request](https://github.com/JonahAragon/ded-info/)
 
 [Issues](https://github.com/JonahAragon/ded-info/issues)
 
