@@ -30,10 +30,15 @@ Copyright © Dark Elixir Developers, 2014-2015
 2. License
   You can't modify this file.
   You can't reverse, analyze and/or modify this program.
-  You can use and share this software freely only if you keep this license file packed in the distribution medium of otherwise together with the program files.
-  The authors of this software reserve the rights to modify and change the terms and conditions without any notifications.
-  If you use the software on a public server or anywhere people can see and/or use it, a linkback to cocdevforum.ml is required.
+  You can use and share this software freely only if you keep this license file
+  packed in the distribution medium of otherwise together with the program files.
+  The authors of this software reserve the rights to modify and change the terms
+  and conditions without any notifications.
+  If you use the software on a public server or anywhere people can see and/or use
+  it, a linkback to cocdevforum.ml is required.
   
 3. Disclaimer
-  This software is distributed with the hope that it will be useful, but IN NO SITUATION THE AUTHORS WILL BE CONSIDERED RESPONSIBLE FOR ANYTHING YOU DO WITH IT, NOR FOR ANY DAMAGE OR LOSS YOU HAVE BECAUSE OF THIS SOFTWARE. USE IT AT YOUR OWN RISK.
+  This software is distributed with the hope that it will be useful, but IN NO
+  SITUATION THE AUTHORS WILL BE CONSIDERED RESPONSIBLE FOR ANYTHING YOU DO WITH IT,
+  NOR FOR ANY DAMAGE OR LOSS YOU HAVE BECAUSE OF THIS SOFTWARE. USE IT AT YOUR OWN RISK.
 ```
