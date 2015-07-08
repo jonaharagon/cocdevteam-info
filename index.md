@@ -4,7 +4,21 @@
 This is an unofficial documentation website much like `ultrapowa.info` that provides guides, tutorials, downloads, and more for DED Server and other [CoC Dev Team](http://www.cocdevteam.com/) projects. We are not affiliated with Supercell in any way. Below you will be able to find more information and free direct downloads to related projects.
 
 ## Downloads
-This section is coming soon :) We'll be offering direct downloads (and feel free to hotlink). In the meantine, check [this](http://www.cocdevteam.com/downloads.php) out.
+
+### DEDServer
+
+<br />
+<center><a href="https://cocdevteam.info/downloads/DEDServer-0.3.4.2.zip" class="btn btn-primary">Download DED 0.6.0.1</a></center>
+<br />
+
+ * 0.3.4.2 - [Download](https://cocdevteam.info/downloads/DEDServer-0.3.4.2.zip)
+ * 0.3.4.1 - [Download](https://cocdevteam.info/downloads/DEDServer-0.3.4.1.zip)
+ * 0.3.4.0 - [Download](https://cocdevteam.info/downloads/DEDServer-0.3.4.0.zip)
+ * 0.3.3.1 - [Download](https://cocdevteam.info/downloads/DEDServer-0.3.3.1.zip)
+ * 0.3.3.0 - [Download](https://cocdevteam.info/downloads/DEDServer-0.3.3.0.zip)
+ * 0.3.2.0 - [Download](https://cocdevteam.info/downloads/DEDServer-0.3.2.0.zip)
+ * 0.3.1.0 - [Download](https://cocdevteam.info/downloads/DEDServer-0.3.1.0.zip)
+ * 0.3.0.0 - [Download](https://cocdevteam.info/downloads/DEDServer-0.3.0.0.zip)
 
 ## About
 CoCDevTeam.info is a collaborative community-based effort to help new and old users get the hang of our projects. It was started by community member [jda](http://www.cocdevteam.com/forum/member.php?action=profile&uid=209) on July 8th, 2015. 
