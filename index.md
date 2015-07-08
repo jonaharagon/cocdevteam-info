@@ -30,7 +30,7 @@ This website is created under the GPL 2.0 license, which you can view in it's en
 
 **Basically**, it means that you **can** distribute, and modify this website and all derivatives, as long as they are also licensed under the GPL 2.0 license and you provide a linkback to this page. More terms and conditions can be found in the full text.
 
-It is important to note that the GPL 2.0 license **does not cover** the downloads. All downloads on this website are provided under the **Dark Elixr Developers` software license**, which can be viewed below:
+It is important to note that the GPL 2.0 license **does not cover** the downloads. All downloads on this website are provided under the **Dark Elixr Developers' software license**, which can be viewed below:
 
 ```
 Dark Elixir Developers' software license
