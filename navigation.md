@@ -14,7 +14,7 @@
   * [Official Forum](http://www.cocdevteam.com/forum/)
   - - - -
   * # Community
-  * [Documentation](index.md)
+  * [Documentation](https://cocdevteam.info/)
   * [Server List](http://dedserverlist.com/index)
   * [Clash of Clans Mods](http://www.cocdevteam.com/forum/forumdisplay.php?fid=16)
   - - - -
