@@ -2,7 +2,7 @@
 
 This is a community collaborative guide to the DED Server program, developed by the CoC Dev Team (not affiliated with Supercell). 
 
-To add pages to this Wiki fork this repository and add `.md` files. These files will be formatted as HTML pages and posted on [cocdevteam.info](http://cocdevteam.info/) when your pull request is merged.
+To add pages to this Wiki fork this repository and add `.md` files. These files will be formatted as HTML pages and posted on [cocdevteam.info](http://cocdevteam.info/) when your pull request is merged. Visit the documentation for GH Markdown [here](https://help.github.com/articles/github-flavored-markdown/) to learn how to format your pages.
 
 ## Files in this repo:
 
