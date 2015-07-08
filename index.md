@@ -3,7 +3,7 @@
 <center><a href="https://cocdevteam.info/downloads/DEDServer-0.3.4.2.zip" class="btn btn-primary">Download DED 0.6.0.1</a></center>
 
 ## Welcome
-This is an unofficial documentation website much like `ultrapowa.info` that provides guides, tutorials, downloads, and more for DED Server and other [CoC Dev Team](http://www.cocdevteam.com/) projects. We are not affiliated with Supercell in any way. Below you will be able to find more information and free direct downloads to related projects.
+This is an unofficial documentation website that provides guides, tutorials, downloads, and more for DED Server and other [CoC Dev Team](http://www.cocdevteam.com/) projects. We are not affiliated with Supercell in any way. Below you will be able to find more information and free direct downloads to related projects.
 
 ## Downloads
 
