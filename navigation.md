@@ -22,7 +22,8 @@
   * [Free 2 months Linux Server](https://www.digitalocean.com/?refcode=fb6730f5bb99)
   * [Free Year Amazon AWS](http://aws.amazon.com)
   - - - -
-  * Your link here! [Submit a pull request](https://github.com/JonahAragon/ded-info/).
+  * # Your link here! 
+  * [Submit a pull request](https://github.com/JonahAragon/ded-info/).
 
 [Issues](https://github.com/JonahAragon/ded-info/issues)
 
