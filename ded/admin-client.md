@@ -28,7 +28,7 @@ The DEDGui Author is open to suggestions for future versions of the admin client
 
 The DEDGui License is as follows:
 
-'''
+```
 DEDGui's software license
 
 1. Definitions
@@ -49,4 +49,4 @@ DEDGui's software license
   This software is distributed with the hope that it will be useful, but IN NO 
   SITUATION THE AUTHORS WILL BE CONSIDERED RESPONSIBLE FOR ANYTHING YOU DO WITH IT,
   NOR FOR ANY DAMAGE OR LOSS YOU HAVE BECAUSE OF THIS SOFTWARE. USE IT AT YOUR OWN RISK.
-'''
+```
