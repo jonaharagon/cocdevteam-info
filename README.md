@@ -25,6 +25,7 @@ Additions to this website should be made in the `gh-pages` branch, not `master`!
  * `ded/admin-client.md` - Overview of the admin client.
  * `ded/dedserver.md` - Overview of the DEDServer software.
  * `ded/dns.md` - DEPRECIATED - Overview of setting up DNS on Windows 2012 r2. This method should no longer be used as DEDServer has a built in DNS server.
+ * `ded/ded-vs-ucs.md` - Some factual information about Ultrapowa and why you should switch.
 
 ### Technical Pages
 
