@@ -26,6 +26,21 @@ To contribute to this wiki, fork [this GitHub Repo](https://github.com/JonahArag
 
 If anybody has an issue with the content of this website, please don't scream at me. Instead, fork this on GitHub and sumbit a pull request, it's the easiest and fastest way to get stuff changed on here.
 
+### Contact
+
+Contact the owners of this website. This is not a contact form for CoC Dev Team, if you want to contact the developers, use their [forum](http://www.cocdevteam.com/forum).
+
+Website issues/bugs: [Issue Page on GitHub](https://github.com/JonahAragon/ded-info/issues)
+
+DCMA/Legal requests: 
+
+  * Fast response: [Submit an Issue on GitHub](https://github.com/JonahAragon/ded-info/issues)
+  * Slower response: [Email **jda**](http://www.google.com/recaptcha/mailhide/d?k=01lN2zMDE4sLzDHH2TRrcwtg==&c=-sfy-K4MPHMwnecSxL0H4DIJV_UGDZ41zBFGnBr2wHU=)
+
+Website addition requests: [Add it yourself](https://github.com/JonahAragon/ded-info) or [Request it](https://github.com/JonahAragon/ded-info/issues)
+
+We take all issues and emails seriously. Expect a response within 72 hours on normal days.
+
 ## License
 This website is created under the GPL 2.0 license, which you can view in it's entirety [here](http://cocdevteam.info/LICENSE).
 
