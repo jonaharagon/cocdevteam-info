@@ -9,6 +9,9 @@
   * [Admin Client](ded/admin-client.md)
   * [DNS (Depreciated)](ded/dns.md)
   * [Screenshots](ded/screenshots.md)
+  * [DEDServer vs Ultrapowa](ded/ded-vs-ucs.md)
+
+[DED vs UCS](ded/ded-vs-ucs.md)
 
 [Links]()
 
