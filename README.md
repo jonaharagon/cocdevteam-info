@@ -33,6 +33,7 @@ Additions to this website should be made in the `gh-pages` branch, not `master`!
  * [`index.html`](/index.html) - The parser for the `.md` files, developed by Timo Dörr and contrbutors at the [MDWiki](https://github.com/Dynalon/mdwiki/) GitHub Page.
  * [`navigation.md`](/navigation.md) - The navigation bar at the top of cocdevteam.info. Edit this to add pages to navigation. Content in this file is applied to every page.
  * [`config.json`](/config.json) - Basic configuration for the website. This file should never be edited.
+ * [`CNAME`](/CNAME) - This connects the domain to this GitHub repo. This file should never be edited.
 
 ### GitHub Files
 
