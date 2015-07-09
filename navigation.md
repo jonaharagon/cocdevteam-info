@@ -7,6 +7,7 @@
   * [DEDServer Overview](ded/dedserver.md)
   * [Installation](ded/install.md)
   * [Admin Client](ded/admin-client.md)
+  * [DNS (Depreciated)](ded/dns.md)
   * [Screenshots](ded/screenshots.md)
 
 [Links]()
