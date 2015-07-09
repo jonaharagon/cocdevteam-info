@@ -12,31 +12,32 @@ Additions to this website should be made in the `gh-pages` branch, not `master`!
 
 ### Directories
 
- * `/` - Root, holds the main files. Usually shouldn't be edited too greatly.
- * `/downloads` - holds the downloads and mirrors for all software
- * `/ded` - holds wiki files related to DEDServer.
- * `/img` - holds images for web facing site.
+ * [`/`](/) - Root, holds the main files. Usually shouldn't be edited too greatly.
+ * [`/downloads`](/downloads) - holds the downloads and mirrors for all software
+ * [`/ded`](/ded) - holds wiki files related to DEDServer.
+ * [`/img`](/img) - holds images for web facing site.
 
 ### Content Pages
 
- * `index.md` - The index page for cocdevteam.info, usually you should not modify this.
- * `ded/install.md` - Installation and configuration instructions for DEDServer
- * `ded/screenshots.md` - Screenshots of DEDServer and the client.
- * `ded/admin-client.md` - Overview of the admin client.
- * `ded/dedserver.md` - Overview of the DEDServer software.
- * `ded/dns.md` - DEPRECIATED - Overview of setting up DNS on Windows 2012 r2. This method should no longer be used as DEDServer has a built in DNS server.
- * `ded/ded-vs-ucs.md` - Some factual information about Ultrapowa and why you should switch.
+ * [`index.md`](/index.md) - The index page for cocdevteam.info, usually you should not modify this.
+ * [`software-licences.md`](/software-licences.md) - Software licences for downloads served on this website.
+ * [`ded/install.md`](/ded/install.md) - Installation and configuration instructions for DEDServer
+ * [`ded/screenshots.md`](/ded/screenshots.md) - Screenshots of DEDServer and the client.
+ * [`ded/admin-client.md`](/ded/admin-client.md) - Overview of the admin client.
+ * [`ded/dedserver.md`](/ded/dedserver.md) - Overview of the DEDServer software.
+ * [`ded/dns.md`](/ded/dns.md) - DEPRECIATED - Overview of setting up DNS on Windows 2012 r2. This method should no longer be used as DEDServer has a built in DNS server.
+ * [`ded/ded-vs-ucs.md`](/ded/ded-vs-ucs.md) - Some factual information about Ultrapowa and why you should switch.
 
 ### Technical Pages
 
- * `index.html` - The parser for the `.md` files, developed by Timo Dörr and contrbutors at the [MDWiki](https://github.com/Dynalon/mdwiki/) GitHub Page.
- * `navigation.md` - The navigation bar at the top of cocdevteam.info. Edit this to add pages to navigation. Content in this file is applied to every page.
- * `config.json` - Basic configuration for the website. This file should never be edited.
+ * [`index.html`](/index.html) - The parser for the `.md` files, developed by Timo Dörr and contrbutors at the [MDWiki](https://github.com/Dynalon/mdwiki/) GitHub Page.
+ * [`navigation.md`](/navigation.md) - The navigation bar at the top of cocdevteam.info. Edit this to add pages to navigation. Content in this file is applied to every page.
+ * [`config.json`](/config.json) - Basic configuration for the website. This file should never be edited.
 
 ### GitHub Files
 
- * `README` - The file you're reading right now. Feel free to edit this to add pages to the above or to clairify information.
- * `LICENSE` - [The license for this website](http://cocdevteam.info/LICENSE). This does not apply to downloads served unless otherwise noted. This should never be edited.
+ * [`README.md`](/README.md) - The file you're reading right now. Feel free to edit this to add pages to the above or to clairify information.
+ * [`LICENSE`](/LICENSE) - [The license for this website](http://cocdevteam.info/LICENSE). This does not apply to downloads served unless otherwise noted. This should never be edited.
 
 ## About [cocdevteam.info](http://cocdevteam.info/)
 
