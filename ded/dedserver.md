@@ -9,7 +9,7 @@ DEDServer is a Java based server emulator for the popular mobile game, Clash of 
   
 The server is being constantly updated by a team of developers. You can contribute and suggest features on their official forum at [cocdevteam.com/forum](http://cocdevteam.com/forum/), formerly cocdevforum.ml.
 
-<center><a href="https://cocdevteam.info/downloads/DEDServer-0.3.4.2.zip" class="btn btn-primary">Download DED 0.3.4.2</a></center>
+<center><a href="https://cocdevteam.info/latest.html" class="btn btn-primary">Download Latest DEDServer</a></center>
 
 ## Dark Elixr Developers
 

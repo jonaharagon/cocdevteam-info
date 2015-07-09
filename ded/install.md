@@ -10,7 +10,7 @@ This is a detailed guide on how to install the DEDServer software.
 
 ### Installation
 
-  1. Download the latest copy of DEDServer from [cocdevteam.info/#!index.md#Downloads](https://cocdevteam.info/#!index.md#Downloads).
+  1. Download the latest copy of DEDServer from [cocdevteam.info/latest.html](https://cocdevteam.info/latest.html).
   2. Unzip its contents to a folder.
   3. Open `config.dedserver` with your favorite text editor.
     1. Change the `startingGold`, `startingElixr`, `startingDarkElixr`, and `startingGems` values to their desired values. This is how many resources your players will start out with.

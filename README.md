@@ -34,6 +34,7 @@ Additions to this website should be made in the `gh-pages` branch, not `master`!
  * [`navigation.md`](/navigation.md) - The navigation bar at the top of cocdevteam.info. Edit this to add pages to navigation. Content in this file is applied to every page.
  * [`config.json`](/config.json) - Basic configuration for the website. This file should never be edited.
  * [`CNAME`](/CNAME) - This connects the domain to this GitHub repo. This file should never be edited.
+ * [`latest.html`](/latest.html) - Automatically links to the latest DEDServer download. Should be edited as new releases come out.
 
 ### GitHub Files
 

@@ -1,6 +1,6 @@
 # CoC Dev Team Documentation
 
-<center><a href="https://cocdevteam.info/downloads/DEDServer-0.3.4.2.zip" class="btn btn-primary">Download DED 0.3.4.2</a></center>
+<center><a href="https://cocdevteam.info/latest.html" class="btn btn-primary">Download Latest DEDServer</a></center>
 
 ## Welcome
 This is an unofficial documentation website that provides guides, tutorials, downloads, and more for DED Server and other [CoC Dev Team](http://www.cocdevteam.com/) projects. We are not affiliated with Supercell in any way. Below you will be able to find more information and free direct downloads to related projects.
@@ -9,14 +9,15 @@ This is an unofficial documentation website that provides guides, tutorials, dow
 
 ### DEDServer
 
- * 0.3.4.2 - **[Download](https://cocdevteam.info/downloads/DEDServer-0.3.4.2.zip)** (**Latest Alpha**)
- * 0.3.4.1 - **[Download](https://cocdevteam.info/downloads/DEDServer-0.3.4.1.zip)** (Alpha)
- * 0.3.4.0 - **[Download](https://cocdevteam.info/downloads/DEDServer-0.3.4.0.zip)** (Alpha)
- * 0.3.3.1 - **[Download](https://cocdevteam.info/downloads/DEDServer-0.3.3.1.zip)** (Beta)
- * 0.3.3.0 - **[Download](https://cocdevteam.info/downloads/DEDServer-0.3.3.0.zip)** (Beta)
- * 0.3.2.0 - **[Download](https://cocdevteam.info/downloads/DEDServer-0.3.2.0.zip)** (**Latest Stable**)
- * 0.3.1.0 - **[Download](https://cocdevteam.info/downloads/DEDServer-0.3.1.0.zip)** (Stable)
- * 0.3.0.0 - **[Download](https://cocdevteam.info/downloads/DEDServer-0.3.0.0.zip)** (Stable)
+ * 0.4.0.0 - **Download** (Temporarily Not Available)
+ * 0.3.4.2 - **[Download](https://cocdevteam.info/downloads/dedserver/DEDServer-0.3.4.2.zip)** (**Latest Alpha**)
+ * 0.3.4.1 - **[Download](https://cocdevteam.info/downloads/dedserver/DEDServer-0.3.4.1.zip)** (Alpha)
+ * 0.3.4.0 - **[Download](https://cocdevteam.info/downloads/dedserver/DEDServer-0.3.4.0.zip)** (Alpha)
+ * 0.3.3.1 - **[Download](https://cocdevteam.info/downloads/dedserver/DEDServer-0.3.3.1.zip)** (Beta)
+ * 0.3.3.0 - **[Download](https://cocdevteam.info/downloads/dedserver/DEDServer-0.3.3.0.zip)** (Beta)
+ * 0.3.2.0 - **[Download](https://cocdevteam.info/downloads/dedserver/DEDServer-0.3.2.0.zip)** (**Latest Stable**)
+ * 0.3.1.0 - **[Download](https://cocdevteam.info/downloads/dedserver/DEDServer-0.3.1.0.zip)** (Stable)
+ * 0.3.0.0 - **[Download](https://cocdevteam.info/downloads/dedserver/DEDServer-0.3.0.0.zip)** (Stable)
 
 ## About
 CoCDevTeam.info is a collaborative community-based effort to help new and old users get the hang of our projects. It was started by community member [jda](http://www.cocdevteam.com/forum/member.php?action=profile&uid=209) on July 8th, 2015. 

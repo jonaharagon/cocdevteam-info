@@ -21,7 +21,7 @@ The partial list of features of the Admin Client include (but is not limited to)
 
 The DEDGui Author is open to suggestions for future versions of the admin client. If you have a suggestion post a reply to [this thread](http://cocdevteam.com/forum/showthread.php?tid=413)
 
-<center>**Download coming soon**</center>
+<br><center><a href="https://cocdevteam.info/downloads/dedgui/DEDGui-0.4-Stable.zip" class="btn btn-primary">Download DEDGui</a> <a href="https://cocdevteam.info/latest.html" class="btn btn-default">Download DEDServer</a></center><br>
 
 
 ## Notes
