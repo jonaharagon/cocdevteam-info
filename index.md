@@ -30,29 +30,4 @@ This website is created under the GPL 2.0 license, which you can view in it's en
 
 **Basically**, it means that you **can** distribute, and modify this website and all derivatives, as long as they are also licensed under the GPL 2.0 license and you provide a linkback to this page. More terms and conditions can be found in the full text.
 
-It is important to note that the GPL 2.0 license **does not cover** the downloads. All downloads on this website are provided under the **Dark Elixr Developers' software license**, which can be viewed below:
-
-```
-Dark Elixir Developers' software license
-http://cocdevforum.ml/
-Copyright © Dark Elixir Developers, 2014-2015
-
-1. Definitions
-  "The software" is any file packaged together with this license
-  "You" means the person or entity using the software
-
-2. License
-  You can't modify this file.
-  You can't reverse, analyze and/or modify this program.
-  You can use and share this software freely only if you keep this license file
-  packed in the distribution medium of otherwise together with the program files.
-  The authors of this software reserve the rights to modify and change the terms
-  and conditions without any notifications.
-  If you use the software on a public server or anywhere people can see and/or use
-  it, a linkback to cocdevforum.ml is required.
-  
-3. Disclaimer
-  This software is distributed with the hope that it will be useful, but IN NO
-  SITUATION THE AUTHORS WILL BE CONSIDERED RESPONSIBLE FOR ANYTHING YOU DO WITH IT,
-  NOR FOR ANY DAMAGE OR LOSS YOU HAVE BECAUSE OF THIS SOFTWARE. USE IT AT YOUR OWN RISK.
-```
+It is important to note that the GPL 2.0 license **does not cover** the downloads. All downloads served on this website are subject to their own license agreements. Specific licenses for downloads can be found on the [license page](software-licences.md).
