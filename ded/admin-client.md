@@ -24,29 +24,6 @@ The DEDGui Author is open to suggestions for future versions of the admin client
 <center>**Download coming soon**</center>
 
 
-## License
+## Notes
 
-The DEDGui License is as follows:
-
-```
-DEDGui's software license
-
-1. Definitions
-  "The software" is any file packaged together with this license
-  "You" means the person or entity using the software
-
-2. License
-  You can't modify this file.
-  You can't reverse, analyse and/or modify this program.
-  You can use and share this software freely only if you keep this license file
-  packed in the distribution medium of otherwise together with the program files.
-  The authors of this software reserve the rights to modify and change the terms
-  and conditions without any notifications.
-  You can't copy this software and call it your own.
-  If you use this software in public credit must be given to the author.
-  
-3. Disclaimer
-  This software is distributed with the hope that it will be useful, but IN NO 
-  SITUATION THE AUTHORS WILL BE CONSIDERED RESPONSIBLE FOR ANYTHING YOU DO WITH IT,
-  NOR FOR ANY DAMAGE OR LOSS YOU HAVE BECAUSE OF THIS SOFTWARE. USE IT AT YOUR OWN RISK.
-```
+The DEDGui software is licenced under the DEDGui Software License. It can be viewed in its entirety on the [Software License](https://cocdevteam.info/#!software-licences.md#DEDGui) page.
