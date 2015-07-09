@@ -40,6 +40,7 @@ Additions to this website should be made in the `gh-pages` branch, not `master`!
 
  * [`README.md`](/README.md) - The file you're reading right now. Feel free to edit this to add pages to the above or to clairify information.
  * [`LICENSE`](/LICENSE) - [The license for this website](http://cocdevteam.info/LICENSE). This does not apply to downloads served unless otherwise noted. This should never be edited.
+ * [`.gitattributes`](/.gitattributes) - GitHub related file used for consistent editing.
 
 ## About [cocdevteam.info](http://cocdevteam.info/)
 
