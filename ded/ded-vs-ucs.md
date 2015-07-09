@@ -52,4 +52,4 @@ Ok. You may be thinking DEDServer is the better choice. Here's a download link:
 
 <br><center><a href="https://cocdevteam.info/downloads/DEDServer-0.3.4.2.zip" class="btn btn-primary">Download DED 0.3.4.2</a></center><br>
 
-And here's some instructions to help you get started... [DEDServer Installation](https://cocdevteam.info/#!ded/install.md(
+And here's some instructions to help you get started... [DEDServer Installation](https://cocdevteam.info/#!ded/install.md)
