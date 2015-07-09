@@ -26,4 +26,6 @@ The DEDGui Author is open to suggestions for future versions of the admin client
 
 ## Notes
 
+The DEDGui main homepage can be located at [www.dedgui.tk](http://www.dedgui.tk/)
+
 The DEDGui software is licenced under the DEDGui Software License. It can be viewed in its entirety on the [Software License](https://cocdevteam.info/#!software-licences.md#DEDGui) page.
