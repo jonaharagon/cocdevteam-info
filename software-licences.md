@@ -1,4 +1,4 @@
-# Licenses
+# Licences
 
 This page shows the individual licences for downloads served on this page.
 
