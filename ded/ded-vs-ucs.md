@@ -50,6 +50,6 @@ Features as of June 8th, 2015. Based on content from `ultrapowa.com` and `cocdev
 
 Ok. You may be thinking DEDServer is the better choice. Here's a download link:
 
-<center><a href="https://cocdevteam.info/downloads/DEDServer-0.3.4.2.zip" class="btn btn-primary">Download DED 0.3.4.2</a></center>
+<br><center><a href="https://cocdevteam.info/downloads/DEDServer-0.3.4.2.zip" class="btn btn-primary">Download DED 0.3.4.2</a></center><br>
 
 And here's some instructions to help you get started... [DEDServer Installation](https://cocdevteam.info/#!ded/install.md(
