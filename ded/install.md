@@ -4,11 +4,18 @@ This is a detailed guide on how to install the DEDServer software.
 
 ## Getting Started
 
+### Prerequisites
+ 
+  * [Java 8](http://www.java.com/en/) or another JRE (OpenJDK, ...)
+
+### Installation
+
   1. Download the latest copy of DEDServer from [cocdevteam.info/#!index.md#Downloads](https://cocdevteam.info/#!index.md#Downloads).
   2. Unzip its contents to a folder.
   3. Open `config.dedserver` with your favorite text editor.
     1. Change the `startingGold`, `startingElixr`, `startingDarkElixr`, and `startingGems` values to their desired values. This is how many resources your players will start out with.
     2. All other configurations are purely technical, and don't need to be changed.
+      * Note: You may need to change `h2` to `h2-server` in saving methods if you want to use a GUI or other program that requires API access.
   4. Double click `DEDServer_release.jar`. The server will initialize. You can now connect to your server.
  
 ## Connecting
@@ -38,6 +45,8 @@ Now that you have a server, you might want other people to connect!
  
 ## Notes
 
-We are not providing support for this at cocdevteam.info. You can try asking for support at the [CoC Developers Forum](http://cocdevteam.com/forum/)
+We are not providing support for this at cocdevteam.info. You can try asking for support at the [CoC Developers Forum](http://cocdevteam.com/forum/).
+
+We are not responsible for any damage caused to any device, account, server, etc.
 
 Some portions of this webpage were originally located at [ultrapowa.info](https://ultrapowa.info).
