@@ -42,8 +42,8 @@ Website addition requests: [Add it yourself](https://github.com/JonahAragon/ded-
 We take all issues and emails seriously. Expect a response within 72 hours on normal days.
 
 ## License
-This website is created under the GPL 2.0 license, which you can view in it's entirety [here](http://cocdevteam.info/LICENSE).
+This website is created under the Creative Commons Attribution-NonCommercial-ShareAlike license, which you can view in it's entirety [here](https://cocdevteam.info/LICENSE).
 
-**Basically**, it means that you **can** distribute, and modify this website and all derivatives, as long as they are also licensed under the GPL 2.0 license and you provide a linkback to this page. More terms and conditions can be found in the full text.
+**Basically**, it means that you **can** distribute, modify, share, and adapt the content of this website, as long as you so for **non-commercial** (business/profitable) purposes, you **give attribution** to this website, and you share the modified/adapted version under **this same license**. These terms are a summary but not a substitute for the [full license text](https://cocdevteam.info/LICENSE)
 
 It is important to note that the GPL 2.0 license **does not cover** the downloads. All downloads served on this website are subject to their own license agreements. Specific licenses for downloads can be found on the [license page](software-licences.md).
