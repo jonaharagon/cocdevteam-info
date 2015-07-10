@@ -33,7 +33,7 @@ Copyright © Dark Elixir Developers, 2014-2015
   
   ## DEDGui
   
-  The DEDGui software, available for download on the [Admin Client](admin-client.md) page, is available for use under the DEDGui software license, shown in it's entirety below:
+  The DEDGui software, available for download on the [Admin Client](/ded/admin-client.md) page, is available for use under the DEDGui software license, shown in it's entirety below:
   
   ```
   DEDGui's software license
