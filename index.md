@@ -21,8 +21,8 @@ This is an unofficial documentation website that provides guides, tutorials, dow
  
 ### DEDGui (Admin Client)
 
- * 0.4.1 - **[Download](https://cocdevteam.info/downloads/dedgui/DEDGui-0.4p1-Stable.zip)
- * 0.4.0 - **[Download](https://cocdevteam.info/downloads/dedgui/DEDGui-0.4-Stable.zip)
+ * 0.4.1 - **[Download](https://cocdevteam.info/downloads/dedgui/DEDGui-0.4p1-Stable.zip)**
+ * 0.4.0 - **[Download](https://cocdevteam.info/downloads/dedgui/DEDGui-0.4-Stable.zip)**
 
 ## About
 CoCDevTeam.info is a collaborative community-based effort to help new and old users get the hang of our projects. It was started by community member [jda](http://www.cocdevteam.com/forum/member.php?action=profile&uid=209) on July 8th, 2015. 
