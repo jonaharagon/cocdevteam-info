@@ -25,6 +25,10 @@ The DEDGui Author is open to suggestions for future versions of the admin client
 
 Warning: DEDGui is only compatible with DEDServer 0.4 or later!
 
+## Installation
+
+  1. Download DEDGui.
+  2. Unzip its contents and place `DEDGui.jar` into the `/plugins` directory of [DEDServer](/ded/dedserver.md).
 
 ## Notes
 
