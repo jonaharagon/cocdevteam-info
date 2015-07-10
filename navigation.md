@@ -29,10 +29,10 @@
   * [Free Year Amazon AWS](http://aws.amazon.com)
   - - - -
   * # Your link here! 
-  * [Submit a pull request](https://github.com/JonahAragon/ded-info/)
+  * [Submit a pull request](https://github.com/JonahAragon/cocdevteam-info/)
 
-[Issues](https://github.com/JonahAragon/ded-info/issues)
+[Issues](https://github.com/JonahAragon/cocdevteam-info/issues)
 
-[gimmick:ForkMeOnGitHub (position: 'right', color: 'white') ](http://www.github.com/JonahAragon/ded-info)
+[gimmick:ForkMeOnGitHub (position: 'right', color: 'white') ](http://www.github.com/JonahAragon/cocdevteam-info)
 
 [gimmick:theme (inverse: true)](flatly)

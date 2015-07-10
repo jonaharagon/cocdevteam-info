@@ -22,7 +22,7 @@ This is an unofficial documentation website that provides guides, tutorials, dow
 ## About
 CoCDevTeam.info is a collaborative community-based effort to help new and old users get the hang of our projects. It was started by community member [jda](http://www.cocdevteam.com/forum/member.php?action=profile&uid=209) on July 8th, 2015. 
 
-To contribute to this wiki, fork [this GitHub Repo](https://github.com/JonahAragon/ded-info) and add your own `.md` pages, and then sumbit a pull request. All `.md` files will be parsed as HTML and posted here. We use GitHub Flavored Markdown, which you can learn about at its [official documentation](https://help.github.com/articles/github-flavored-markdown/).
+To contribute to this wiki, fork [this GitHub Repo](https://github.com/JonahAragon/cocdevteam-info) and add your own `.md` pages, and then sumbit a pull request. All `.md` files will be parsed as HTML and posted here. We use GitHub Flavored Markdown, which you can learn about at its [official documentation](https://help.github.com/articles/github-flavored-markdown/).
 
 If anybody has an issue with the content of this website, please don't scream at me. Instead, fork this on GitHub and sumbit a pull request, it's the easiest and fastest way to get stuff changed on here.
 
@@ -30,14 +30,14 @@ If anybody has an issue with the content of this website, please don't scream at
 
 Contact the owners of this website. This is not a contact form for CoC Dev Team, if you want to contact the developers, use their [forum](http://www.cocdevteam.com/forum).
 
-Website issues/bugs: [Issue Page on GitHub](https://github.com/JonahAragon/ded-info/issues)
+Website issues/bugs: [Issue Page on GitHub](https://github.com/JonahAragon/cocdevteam-info/issues)
 
 DCMA/Legal requests: 
 
-  * Fast response: [Submit an Issue on GitHub](https://github.com/JonahAragon/ded-info/issues)
+  * Fast response: [Submit an Issue on GitHub](https://github.com/JonahAragon/cocdevteam-info/issues)
   * Slower response: [Email **jda**](http://www.google.com/recaptcha/mailhide/d?k=01lN2zMDE4sLzDHH2TRrcwtg==&c=-sfy-K4MPHMwnecSxL0H4DIJV_UGDZ41zBFGnBr2wHU=)
 
-Website addition requests: [Add it yourself](https://github.com/JonahAragon/ded-info) or [Request it](https://github.com/JonahAragon/ded-info/issues)
+Website addition requests: [Add it yourself](https://github.com/JonahAragon/cocdevteam-info) or [Request it](https://github.com/JonahAragon/cocdevteam-info/issues)
 
 We take all issues and emails seriously. Expect a response within 72 hours on normal days.
 
