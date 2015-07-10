@@ -9,8 +9,8 @@ This is an unofficial documentation website that provides guides, tutorials, dow
 
 ### DEDServer
 
- * 0.4.0.0 - **Download** (Temporarily Not Available)
- * 0.3.4.2 - **[Download](https://cocdevteam.info/downloads/dedserver/DEDServer-0.3.4.2.zip)** (**Latest Alpha**)
+ * 0.4.0.0 - **[Download](https://cocdevteam.info/downloads/dedserver/DEDServer-0.4.0.0.zip)** (**Latest Beta**)
+ * 0.3.4.2 - **[Download](https://cocdevteam.info/downloads/dedserver/DEDServer-0.3.4.2.zip)** (Alpha)
  * 0.3.4.1 - **[Download](https://cocdevteam.info/downloads/dedserver/DEDServer-0.3.4.1.zip)** (Alpha)
  * 0.3.4.0 - **[Download](https://cocdevteam.info/downloads/dedserver/DEDServer-0.3.4.0.zip)** (Alpha)
  * 0.3.3.1 - **[Download](https://cocdevteam.info/downloads/dedserver/DEDServer-0.3.3.1.zip)** (Beta)
