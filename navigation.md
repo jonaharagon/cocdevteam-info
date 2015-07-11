@@ -13,6 +13,11 @@
 
 [DED vs UCS](ded/ded-vs-ucs.md)
 
+[Developers]()
+
+  * # DEDServer API
+  * [JavaDoc](http://cocdevteam.com/doc/)
+
 [Links]()
 
   * # Official
