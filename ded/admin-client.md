@@ -28,10 +28,10 @@ Warning: DEDGui is only compatible with DEDServer 0.4 or later!
 ## Installation
 
   1. Download DEDGui.
-  2. Unzip its contents and place `DEDGui.jar` into the `/plugins` directory of [DEDServer](/ded/dedserver.md).
+  2. Unzip its contents and place `DEDGui.jar` into the root directory of [DEDServer](/ded/dedserver.md).
 
 ## Notes
 
-The DEDGui main homepage can be located at [www.dedgui.tk](http://www.dedgui.tk/)
+The DEDGui main homepage can be located at [www.dedgui.ml](http://www.dedgui.ml/)
 
 The DEDGui software is licenced under the DEDGui Software License. It can be viewed in its entirety on the [Software License](https://cocdevteam.info/#!software-licences.md#DEDGui) page.
