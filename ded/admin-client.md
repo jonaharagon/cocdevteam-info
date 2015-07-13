@@ -2,7 +2,7 @@
 
 The Admin client is a special client for the DEDServer that allows special access to server administrators. The client is actively being developed so expect updates! 
 
-For more information or to download the admin client view [this thread](http://cocdevteam.com/forum/showthread.php?tid=413). For full documentation on DEDGui, visit [www.DEDGui.tk](http://www.dedgui.tk), a community editable documentation website centered around the DEDServer admin client.
+For more information or to download the admin client view [this thread](http://cocdevteam.com/forum/showthread.php?tid=413). For full documentation on DEDGui, visit [www.DEDGui.ml](http://www.dedgui.ml), a community editable documentation website centered around the DEDServer admin client.
 
 ## Features
 
@@ -32,6 +32,6 @@ Warning: DEDGui is only compatible with DEDServer 0.4 or later!
 
 ## Notes
 
-The DEDGui main homepage can be located at [www.dedgui.tk](http://www.dedgui.tk/)
+The DEDGui main homepage can be located at [www.dedgui.ml](http://www.dedgui.ml/)
 
 The DEDGui software is licenced under the DEDGui Software License. It can be viewed in its entirety on the [Software License](https://cocdevteam.info/#!software-licences.md#DEDGui) page.
