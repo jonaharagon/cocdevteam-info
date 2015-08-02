@@ -16,9 +16,10 @@ The server is being constantly updated by a team of developers. You can contribu
 As listed on the forums, this list is subject to change and is in alphabetical order (by username):
 
   * Aphid
-  * DevilMental
+  * BananaEater
   * dp_1
   * eriche
   * ex87
   * protee
   * rcs
+  * SiD3W4y
