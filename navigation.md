@@ -13,6 +13,10 @@
 
 [DED vs UCS](ded/ded-vs-ucs.md)
 
+[Community]()
+
+  * [Public Servers](community/public-servers.md)
+
 [Developers]()
 
   * # DEDServer API
