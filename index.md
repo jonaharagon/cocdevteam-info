@@ -51,4 +51,4 @@ This website is created under the Creative Commons Attribution-NonCommercial-Sha
 
 **Basically**, it means that you **can** distribute, modify, share, and adapt the content of this website, as long as you so for **non-commercial** (business/profitable) purposes, you **give attribution** to this website, and you share the modified/adapted version under **this same license**. These terms are a summary but not a substitute for the [full license text](https://cocdevteam.info/LICENSE)
 
-It is important to note that the GPL 2.0 license **does not cover** the downloads. All downloads served on this website are subject to their own license agreements. Specific licenses for downloads can be found on the [license page](software-licences.md).
+It is important to note that the Creative Commons license **does not cover** the downloads. All downloads served on this website are subject to their own license agreements. Specific licenses for downloads can be found on the [license page](software-licences.md).
