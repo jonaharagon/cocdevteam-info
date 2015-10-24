@@ -1,5 +1,7 @@
 # CoC Dev Team Documentation
 
+Attention: This website will no longer be maintained, as cocdevteam development has switched focus to RedMoon. Visit RedMoon at [www.RedMoon.io](https://www.redmoon.io) or the RedMoon tutorial blog at [RedMoon.info](http://redmoon.info).
+
 <center><a href="https://cocdevteam.info/latest.html" class="btn btn-primary">Download Latest DEDServer</a></center>
 
 ## Welcome
